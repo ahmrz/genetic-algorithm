@@ -1,8 +1,6 @@
 # Genetic Algorithm
 
-This repository contains an implementation of the Genetic Algorithm to solve the 0-1 knapsack problem using different programming languages.
-
-This implementation of the Genetic Algorithm makes use of the following features:
+This repository contains an implementation of the Genetic Algorithm to solve the 0-1 knapsack problem using different programming languages. This implementation of the Genetic Algorithm makes use of the following features:
 
 * Roulette wheel selection
 * Single point crossover
