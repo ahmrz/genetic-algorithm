@@ -6,3 +6,13 @@ This repository contains an implementation of the Genetic Algorithm to solve the
 * Single point crossover
 * Bit flip mutation
 
+The Genetic Algorithm is currently implemented in the following languages:
+
+* C++
+* Go
+* Java
+* Julia
+* Matlab/Octave
+* Python
+* Rust
+
