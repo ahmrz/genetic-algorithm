@@ -1,12 +1,14 @@
 # Genetic Algorithm
 
-This repository contains an implementation of the Genetic Algorithm to solve the 0-1 knapsack problem using different programming languages. The genetic algorithm makes use of the following features:
+This repository contains an implementation of the Genetic Algorithm to solve the 0-1 knapsack problem using different programming languages.
+
+This implementation of the Genetic Algorithm makes use of the following features:
 
 * Roulette wheel selection
 * Single point crossover
 * Bit flip mutation
 
-The Genetic Algorithm is currently implemented in the following languages:
+And is currently implemented in the following languages:
 
 * C++
 * Go
@@ -16,3 +18,4 @@ The Genetic Algorithm is currently implemented in the following languages:
 * Python
 * Rust
 
+Refer to the instructions present within individual folders for each language to run the code.
