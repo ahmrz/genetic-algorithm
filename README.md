@@ -1,4 +1,4 @@
-# Genetic Algorithm
+# Solving 0-1 Knapsack Problems Using Genetic Algorithm
 
 This repository contains an implementation of the Genetic Algorithm to solve the 0-1 knapsack problem using different programming languages. This implementation of the Genetic Algorithm makes use of the following features:
 
