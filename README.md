@@ -1,6 +1,6 @@
 # Solving 0-1 Knapsack Problems Using Genetic Algorithm
 
-This repository contains an implementation of the Genetic Algorithm to solve the 0-1 knapsack problem using different programming languages. This implementation of the Genetic Algorithm makes use of the following features:
+This repository contains an implementation of the Genetic Algorithm [1] to solve the 0-1 knapsack problem using different programming languages. This implementation of the Genetic Algorithm makes use of the following features:
 
 * Roulette wheel selection
 * Single point crossover
@@ -20,7 +20,7 @@ Refer to the instructions present within individual folders for each language to
 
 ## Datasets used
 
-Fifteen 0-1 knapsack problems labelled L1 to L15 are used in this repository. L1 to L10 were extracted from low-dimensional instances found at [1], [2] and L11 to L15 from [3].
+Fifteen 0-1 knapsack problems labelled L1 to L15 are used in this repository. L1 to L10 were extracted from low-dimensional instances found at [2], [3] and L11 to L15 from [4].
 
 | Instance | Dimension | Optimum solution | Capacity | Weights | Values |
 | :------------- | :------------- | :------------- | :------------- | :------------- | :------------- |
@@ -71,8 +71,9 @@ xychart-beta
 
 ## References
 
-1. D. Kreher and D. Simpson, _Combinatorial Algorithms_. CRC Press, 1998.
-2. S. Martello, “Knapsack problems: algorithms and computer implementations,” _Wiley-Interscience series in discrete mathematics and optimization_, 1990.
-3. A. J. Kulkarni, G. Krishnasamy, and A. Abraham, “Solution to 0–1 knapsack problem using cohort intelligence algorithm,” in _Cohort Intelligence: A Socio-inspired Optimization Method_. Springer, 2017, pp. 55–74.
+1. D. E. Goldberg and J. H. Holland, 1988. “Genetic algorithms and machine learning”, _Machine Learning_ 3, pp. 95–99.
+2. D. Kreher and D. Simpson, 1998. _Combinatorial Algorithms_. CRC Press.
+3. S. Martello, 1990. “Knapsack problems: algorithms and computer implementations” _Wiley-Interscience series in discrete mathematics and optimization_.
+4. A. J. Kulkarni, G. Krishnasamy, and A. Abraham, 2017. “Solution to 0–1 knapsack problem using cohort intelligence algorithm” in _Cohort Intelligence: A Socio-inspired Optimization Method_. Springer, pp. 55–74.
 
 
